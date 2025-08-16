@@ -1,5 +1,5 @@
 {
-    "name": "anhtvt/stylist",
+    "name": "lyquocviet/stylist",
     "description": "Laravel theming package.",
     "authors": [
         {
@@ -21,11 +21,15 @@
         {
             "name": "Anh Tran",
             "email": "malphite848@gmail.com"
+        },
+        {
+            "name": "Viet Ly",
+            "email": "lyquocvietxd@gmail.com"
         }
     ],
     "require": {
-        "laravelcollective/html": "^6.0|^7.0|^8.0",
-        "illuminate/support": "^6.0|^7.0|^8.0"
+        "laravelcollective/html": "^6.0|^7.0|^8.0|^9.0",
+        "illuminate/support": "^6.0|^7.0|^8.0|^9.0"
     },
     "autoload": {
         "psr-4": {
